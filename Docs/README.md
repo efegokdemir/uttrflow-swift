@@ -112,6 +112,7 @@ place to start; if you want to change it, [CONTRIBUTING](../CONTRIBUTING.md) and
 | [core-history-undo.md](core-history-undo.md) | Undoing a correction: how the words are found and when they are left alone |
 | [core-history-accuracy.md](core-history-accuracy.md) | The accuracy figure: where its denominator comes from |
 | [history-store-file.md](history-store-file.md) | The dictation history file, and the shape of the store around it |
+| [retention-clock.md](retention-clock.md) | Retention, and the two things it will not take the wall clock's word for |
 
 ## Settings and system behaviour
 
